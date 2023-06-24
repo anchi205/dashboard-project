@@ -1,0 +1,40 @@
+.chartSection {
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.chartWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 50px;
+}
+
+.barChart {
+  width: 100%;
+  height: 100%;
+}
+
+.insightContainer {
+  width: 100%;
+}
+
+.insightContainerCard {
+  margin: 10px;
+}
+
+.insightContainerPagination {
+  width: 100%;
+  margin-left: 2%;
+  margin-top: 30px;
+  margin: 10px;
+}
+
+.wrapAll {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
